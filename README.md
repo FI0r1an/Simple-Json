@@ -1,5 +1,5 @@
 # Simple-Json
-![icon](icon.png)  
+![icon](https://github.com/SMG233/Simple-Json/blob/master/icon.png)  
 A light json parser written in Lua  
 ## How to use
 ```lua
